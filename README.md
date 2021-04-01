@@ -1,3 +1,5 @@
+(plots are in the figures folder)
+
 ## Introduction
 
 This assignment uses data from
